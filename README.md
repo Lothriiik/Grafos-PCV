@@ -15,10 +15,19 @@ Todos os algoritmos foram testados utilizando os arquivos de texto(.txt) present
 https://people.sc.fsu.edu/~jburkardt/datasets/tsp/tsp.html
 
 ## Instalação
-Por enquanto e so baixar a pasta com o código e os bancos de dados, e executar o código, quando for necessaria algumas dependencias atualizarei aqui.
+Para todos os três algoritmos vai ser preciso baixar a pasta com o código e os bancos de dados, expecificadamente para o algoritmo de Chritofides vai ser preciso instalar as bibliotecas Numpy, Networkx e Itertools.
 
 ## Como Usar
-Você so vai precisar executar o codigo seja por terminal, Visual Studio Code, Eclipse etc. e digitar o número do respectivo Banco de Dados.
+Você vai precisar executar o codigo seja por terminal, Visual Studio Code, Eclipse etc. e digitar o número do respectivo Banco de Dados.
+
+## Resultados
+### Algoritmo de Christofides
+
+* att48:     Custo Minimo : 38475
+* dantzig42: Custo Minimo :
+* fri26:     Custo Minimo :
+* gr17:      Custo Minimo :
+* p01:       Custo Minimo : 288
 
 ## Licença
 MIT License
