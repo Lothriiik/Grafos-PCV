@@ -1,7 +1,7 @@
 # Grafos-PCV
 
 ## Descrição
-O objetivo deste projeto é desenvolver um sistema eficiente para encontrar o caminho mínimo no problema do caixeiro viajante (TSP) em várias instâncias de bases de dados específicas. As bases de dados utilizadas são att48, dantzig42, fri26, gr17 e p01. O TSP é um problema clássico de otimização combinatória em que o objetivo é encontrar o caminho mais curto que visita todos os pontos (cidades) exatamente uma vez e retorna ao ponto de origem.
+O objetivo deste projeto é desenvolver um sistema eficiente para encontrar o caminho mínimo no Problema do Caixeiro Viajante (PCV), ou Traveling Salesman Problem (TSP) em várias instâncias de bases de dados específicas. As bases de dados utilizadas são att48, dantzig42, fri26, gr17 e p01. O TSP é um problema clássico de otimização combinatória em que o objetivo é encontrar o caminho mais curto que visita todos os pontos (cidades) exatamente uma vez e retorna ao ponto de origem.
 
 Bases de Dados:
 
