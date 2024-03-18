@@ -10,6 +10,10 @@ Bases de Dados:
 * fri26:     Conjunto de 26 cidades.
 * gr17:      Conjunto de 17 cidades.
 * p01:       Conjunto de 15 cidades.
+
+Todos os algoritmos foram testados utilizando os arquivos de texto(.txt) presentes na pasta "Bases de dados", eles também podem ser encontrados no seguinte site:
+https://people.sc.fsu.edu/~jburkardt/datasets/tsp/tsp.html
+
 ## Instalação
 Por enquanto e so baixar a pasta com o código e os bancos de dados, e executar o código, quando for necessaria algumas dependencias atualizarei aqui.
 
