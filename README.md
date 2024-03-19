@@ -37,6 +37,14 @@ Você vai precisar executar o codigo seja por terminal, Visual Studio Code, Ecli
 * gr17:      Custo Minimo : 2197
 * p01:       Custo Minimo : 288
 
+### Algoritmo de Dijkstra
+
+* att48:     Custo Minimo : 136489
+* dantzig42: Custo Minimo : 3524
+* fri26:     Custo Minimo : 3495
+* gr17:      Custo Minimo : 4028
+* p01:       Custo Minimo : 741
+
 ## Licença
 MIT License
 
