@@ -32,9 +32,9 @@ Você vai precisar executar o codigo seja por terminal, Visual Studio Code, Ecli
 ### Algoritmo de Christofides
 
 * att48:     Custo Minimo : 38475
-* dantzig42: Custo Minimo :
-* fri26:     Custo Minimo :
-* gr17:      Custo Minimo :
+* dantzig42: Custo Minimo : 773
+* fri26:     Custo Minimo : 1051
+* gr17:      Custo Minimo : 2197
 * p01:       Custo Minimo : 288
 
 ## Licença
