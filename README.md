@@ -15,8 +15,7 @@ Todos os algoritmos foram testados utilizando os arquivos de texto(.txt) present
 https://people.sc.fsu.edu/~jburkardt/datasets/tsp/tsp.html
 
 ## Instalação
-Para todos os três algoritmos vai ser preciso baixar a pasta com o código e os bancos de dados, expecificadamente para o algoritmo de Chritofides vai ser preciso instalar as bibliotecas Numpy, Networkx e Itertools.
-
+Para todos os três algoritmos vai ser preciso baixar a pasta com o código e os bancos de dados, expecificadamente para o algoritmo de Chritofides vai ser preciso instalar as bibliotecas Numpy e Networkx.
 ## Como Usar
 Você vai precisar executar o codigo seja por terminal, Visual Studio Code, Eclipse etc. e digitar o número do respectivo Banco de Dados.
 
