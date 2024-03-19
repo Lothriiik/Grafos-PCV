@@ -21,6 +21,14 @@ Para todos os três algoritmos vai ser preciso baixar a pasta com o código e os
 Você vai precisar executar o codigo seja por terminal, Visual Studio Code, Eclipse etc. e digitar o número do respectivo Banco de Dados.
 
 ## Resultados
+### Algortimo de Kruskal
+
+* att48:     Custo Minimo : 27670
+* dantzig42: Custo Minimo : 591
+* fri26:     Custo Minimo : 741
+* gr17:      Custo Minimo : 1421
+* p01:       Custo Minimo : 260
+
 ### Algoritmo de Christofides
 
 * att48:     Custo Minimo : 38475
